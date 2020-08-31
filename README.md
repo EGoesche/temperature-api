@@ -1,6 +1,6 @@
 <!--lint disable no-literal-urls-->
 # Temperature-API
-Bei diesem Projekt handelt es sich um eine einfache REST-API, welche die CRUD-Operationen verwendet. Die API verwendet Flask als Laufzeitumgebung und SQLite als Datenbank.
+Bei diesem Projekt handelt es sich um eine einfache REST-API, welche die CRUD-Operationen verwendet. Die API verwendet Flask als Framework und SQLite als Datenbank.
 
 Übersicht
 ---------------------
