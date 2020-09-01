@@ -28,6 +28,8 @@ Um den Code einsehen zu können, importieren Sie die Quellcode-Dateien in eine I
 * Temperaturen in einer Datenbank:
  >* Hinzufügen
  >* Anzeigen
+ >* Ändern
+ >* Löschen
 
 Unter Verwendung von
 ------------
