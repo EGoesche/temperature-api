@@ -4,6 +4,11 @@ from models import Temperature
 
 main = Blueprint('main', __name__)
 
+# Route to answer for standard request
+@main.route('/')
+def welcome():
+    return 'Welcome to the Temperature-API!'
+
 # Route to get all temperatures
 @main.route('/temperatures')
 def list_temperature():
