@@ -29,7 +29,7 @@ Um den Code einsehen zu können, importieren Sie die Quellcode-Dateien in eine I
  >* Hinzufügen
  >* Anzeigen
  >* Ändern
- >* Löschen
+ >* Löschen  
  Alle Anfragen werden durch die Route **/temperatures** realisiert. 
 
 Unter Verwendung von
